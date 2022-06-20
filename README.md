@@ -1,4 +1,4 @@
-# CAKD5_2_3
+# CAKD5_3팀_2차
 # yolov5를 통한 불량 검출
 # 원본데이터 = 280장
 # 증식 = roboflow, openCV, 포토샵
